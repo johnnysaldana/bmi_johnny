@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/johnnysaldana/bmi_johnny/issues"
   },
-  "homepage": "https://github.com/johnnysaldana/bmi_johnny#readme"
+  "homepage": "https://github.com/johnnysaldana/bmi_johnny#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
